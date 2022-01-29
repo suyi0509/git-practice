@@ -18,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+        <div>这是我第一次开分支的git练习</div>
+        <div>这是我第三次练习暂存到本地</div>
       </header>
     </div>
   );
